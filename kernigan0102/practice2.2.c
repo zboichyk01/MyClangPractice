@@ -1,3 +1,3 @@
 main ()
-{ printf("hello, world \t");}
+{ printf("      :)     \t");}
 
