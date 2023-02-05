@@ -1,3 +1,3 @@
 main () 
-{ printf("hello, world \v");}
+{ printf("hello, world \b");}
 
