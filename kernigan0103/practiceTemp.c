@@ -2,7 +2,7 @@ main ()
 { 
 	int fahr, celsius; 
 	int lower, upper, step; 
-	lower = 0; 
+	lower = 10;
 	upper = 450; 
 	step = 20; 
 	fahr= lower; 
